@@ -1,5 +1,9 @@
 # CSC396-HW4
 
-This notebook expects dataset.txt and glove.6B.300d-vocabulary.txt to be in the same directory as csc396-hw4.ipynb.
+CJ Chen
 
-Problem2.ipynb is a scratch notebook used to work on problem 2 while the contextualized embeddings were being computed.
+This is the github repository for Assignment 4 in CSC 396, Fall 2024.
+
+Problem 1 and Problem 2 are both completed in the notebook csc396-hw4.ipynb.
+
+dataset.txt and glove.6B.300d-vocabulary.txt are expected to be in the same directory as csc396-hw4.ipynb.
